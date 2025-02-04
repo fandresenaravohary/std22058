@@ -1,0 +1,9 @@
+package com.exercice.demo.file.hash;
+
+import com.exercice.demo.PojaGenerated;
+
+@PojaGenerated
+public enum FileHashAlgorithm {
+  SHA256,
+  NONE
+}
